@@ -1,0 +1,1 @@
+-console -novid -tickrate 128 -threads 8 -language textmodorel -high +cl_forcepreload 1 -nod3d9ex
